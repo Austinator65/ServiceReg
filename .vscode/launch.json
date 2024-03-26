@@ -1,0 +1,14 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Spring Boot-ServiceRegApplication<ServiceReg>",
+         "request": "launch",
+         "cwd": "${workspaceFolder}",
+         "mainClass": "com.austin.ServiceReg.ServiceRegApplication",
+         "projectName": "ServiceReg",
+         "args": "",
+         "envFile": "${workspaceFolder}/.env"
+      }
+   ]
+}
